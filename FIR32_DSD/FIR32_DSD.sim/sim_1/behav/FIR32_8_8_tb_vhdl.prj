@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../FIR32_DSD.srcs/sources_1/new/DFF.vhd"
+vhdl xil_defaultlib  "../../../FIR32_DSD.srcs/sources_1/new/FIR32_8_8.vhd"
+vhdl xil_defaultlib  "../../../FIR32_DSD.srcs/sim_1/new/FIR32_8_8_tb.vhd"
+
+# Do not sort compile order
+nosort

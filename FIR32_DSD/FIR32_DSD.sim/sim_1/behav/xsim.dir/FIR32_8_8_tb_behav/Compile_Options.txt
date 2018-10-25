@@ -1,0 +1,1 @@
+-wto "62aa353b383f440599bee1aba23926fb" --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "FIR32_8_8_tb_behav" "xil_defaultlib.FIR32_8_8_tb" -log "elaborate.log" 

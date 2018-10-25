@@ -1,0 +1,4 @@
+Running: xsim.dir/FIR32_8_8_tb_behav/xsimk -simmode gui -wdb FIR32_8_8_tb_behav.wdb -simrunnum 0 -socket 44181
+Design successfully loaded
+Design Loading Memory Usage: 42384 KB (Peak: 42436 KB)
+Design Loading CPU Usage: 30 ms
